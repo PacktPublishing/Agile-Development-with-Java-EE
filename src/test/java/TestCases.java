@@ -25,10 +25,10 @@ public class TestCases {
    
    /*
    // ***** COURSE NOTE ******
-   // This is the Test Case method to be added while watching video 3.2 of the course.
-   // Just be aware that once you add this, the build/test job will fail, as demonstrated in video 3.2
-   // You will learn in video 3.3 how to make this test pass, by providing user and password in
-   // the CloudantClientMgr.java class
+   // This is the Test Case method to be added while watching 'Video 3.2: Test-driven development – Part 1'
+   // Just be aware that once you add this, the build/test job will fail, as demonstrated in that same video.
+   // You will learn in the next video (Video 3.3: Test-driven development – Part 2) how to 
+   // make this test pass, by providing user and password in the CloudantClientMgr.java class
    
    @Test
    public void testDatabaseConnection(){
