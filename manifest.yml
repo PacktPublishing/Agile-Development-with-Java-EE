@@ -8,7 +8,7 @@ applications:
   random-route: true
   memory: 256M
   path: target/AgilePacktApp.war
-  services:
+  #services:
   #- agile-packt-db   
   
   # ***** COURSE NOTE ***** 
