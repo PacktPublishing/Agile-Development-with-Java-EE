@@ -25,8 +25,8 @@ public class TestCases {
    
    /*
    // ***** COURSE NOTE ******
-   // As you are learning in video 3.2 of the course, 
-   // you can UNcomment this method to see this test case failing as demonstrated in video 3.2
+   // This is the Test Case method to be added while watching video 3.2 of the course.
+   // Just be aware that once you add this, the build/test job will fail, as demonstrated in video 3.2
    // You will learn in video 3.3 how to make this test pass, by providing user and password in
    // the CloudantClientMgr.java class
    
