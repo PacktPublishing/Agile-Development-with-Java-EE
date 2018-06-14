@@ -1,0 +1,12 @@
+---
+declared-services:
+  agile-packt-db:
+    label: cloudantNoSQLDB
+    plan: Lite
+applications:
+- name: agile-packt
+  random-route: true
+  memory: 256M
+  path: target/AgilePacktApp.war
+  services:
+  - agile-packt-db
