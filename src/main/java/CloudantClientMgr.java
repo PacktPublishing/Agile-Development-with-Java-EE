@@ -32,7 +32,7 @@ public class CloudantClientMgr {
 		}
 	}
 
-	private static CloudantClient createClient() { // COURSE NOTE: Lines 36 to 67 below were added during Video 3.3: Test-driven development – Part 2
+	private static CloudantClient createClient() { // ***** COURSE NOTE ***** : Lines 36 to 67 below were added during 'Video 3.3: Test-driven development – Part 2'
 		String VCAP_SERVICES = System.getenv("VCAP_SERVICES");
 		String serviceName = null;
 
