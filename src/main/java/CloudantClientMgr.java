@@ -32,7 +32,7 @@ public class CloudantClientMgr {
 		}
 	}
 
-	private static CloudantClient createClient() {
+	private static CloudantClient createClient() { // COURSE NOTE: Lines 36 to 67 below were added during Video 3.3: Test-driven development – Part 2
 		String VCAP_SERVICES = System.getenv("VCAP_SERVICES");
 		String serviceName = null;
 
@@ -65,7 +65,6 @@ public class CloudantClientMgr {
 		} else {
 			System.out.println("VCAP_SERVICES env var doesn't exist: running locally.");
 		}
-
 		try {
 			System.out.println("Connecting to Cloudant : " + user);
 			CloudantClient client = ClientBuilder.account(user)
