@@ -9,4 +9,10 @@ applications:
   memory: 256M
   path: target/AgilePacktApp.war
   services:
-  - agile-packt-db
+  #- agile-packt-db   
+  
+  #***  COURSE NOTE *** 
+  # This file does NOT need to be updated to successfully complete the course
+  # even if you use an application name different from agile-packt
+  # or a database service name different from agile-packt-db
+  # no updates are needed in order to follow the course along
