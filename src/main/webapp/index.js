@@ -145,7 +145,7 @@ function setRowContent(item, row) {
 				innerHTML += "<div class='contentTiles'>" + attachment.key + "<br><AUDIO  height=\"50\" src=\"" + encodeUriAndQuotes(attachment.url) + "\" controls></AUDIO></div>";
 
 			} else if (attachment.content_type.indexOf("video/") == 0) {
-				innerHTML += "<div class='contentTiles'>" + attachment.key + "<br><VIDEO  id=\"" + encodeUriAndQuotes(attachment.url) + "\" height=\"175\"  src=\"" + encodeUriAndQuotes(attachment.url) + "\" controls></VIDEO></div>";
+				innerHTML += "<div class='contentTiles'>" + attachment.key + "<br><VIDEO  id=\"" + encodeUriAndQuotes(attachment.url) + "\" height=\"150\"  src=\"" + encodeUriAndQuotes(attachment.url) + "\" controls></VIDEO></div>";
 
 			} else if (attachment.content_type.indexOf("text/") == 0 || attachment.content_type.indexOf("application/") == 0) {
 				innerHTML += "<div class='contentTiles'><a href=\"" + encodeUriAndQuotes(attachment.url) + "\" target=\"_blank\">" + attachment.key + "</a></div>";
