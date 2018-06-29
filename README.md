@@ -17,7 +17,7 @@ In this course, you will learn to conceptualize, plan, build and deploy a Java E
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-This video course is for experienced Java Developers, Java EE developers, Cloud application developer who are aspiring to become the designers of modern Cloud applications or software architects who would like to leverage the proven Agile practices, tools and technologies to create effective Java EE applications in the Cloud.<br/>
+This video course is for experienced Java Developers, Java EE developers, Cloud application developers who are aspiring to become the designers of modern Cloud applications or software architects who would like to leverage the proven Agile practices, tools and technologies to create effective Java EE applications in the Cloud.<br/>
 Basic Agile Development, Cloud Computing and DevOps Knowledge helpful.
 ### Technical Requirements
 This course has the following software requirements:<br/>
