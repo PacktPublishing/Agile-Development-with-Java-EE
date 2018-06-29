@@ -28,5 +28,5 @@ No installations required! Born-On-The-Cloud model
 
 * [Creating and Running an Agile Project in JIRA [Video]](https://www.packtpub.com/application-development/creating-and-running-agile-project-jira-video?utm_source=github&utm_medium=repository&utm_campaign=9781788835695)
 
-* [An Agile Crash Course: Agile Project Management and Agile Delivery [Video]](https://www.packtpub.com/application-development/agile-crash-course-agile-project-management-and-agile-delivery-video?utm_source=github&utm_medium=repository&utm_campaign=9781789533415)
+* [Java EE 8 Development with Eclipse - Third Edition](https://www.packtpub.com/application-development/java-ee-8-development-eclipse-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788833776)
 
